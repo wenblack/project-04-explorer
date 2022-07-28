@@ -1,7 +1,4 @@
-<h1 align="center">
-	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
-  <img src="./assets/img1.jpeg">
-</h1>
+
 
 <h3 align="center">
   Introdução à Responsividade
